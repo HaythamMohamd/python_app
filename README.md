@@ -22,3 +22,5 @@ pip install gunicorn
 pip freeze > requirments.txt
 gunicorn wsgi
 ```
+
+# edit from github gui
